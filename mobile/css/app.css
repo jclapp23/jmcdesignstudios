@@ -1,0 +1,8 @@
+.ui-footer-fixed {
+  padding-top: .4em;
+  padding-bottom: .6em;
+}
+
+div[data-role="footer"] {
+  text-align: center;
+}
